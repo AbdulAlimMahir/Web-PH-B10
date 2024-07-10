@@ -3,10 +3,18 @@
   padding: 0;
 }
 
-ol {
+span {
   color: #2c2c3d;
+  background-color: #faebd7;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900;
 }
 
 ul {
   color: #694651;
+}
+
+img {
+  width: 80%;
+  height: 80%;
 }
